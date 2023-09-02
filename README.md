@@ -7,8 +7,8 @@
 
 - [Prerequisites](#Prerequisites)
 - [Getting Started](#getting-started)
-- [Image Processing Tasks](#image-processing)
-  * [Basic Image Manipulation](#image-manipulation)
+- [Image Processing Tasks](#image-processing-tasks)
+  * [Basic Image Manipulation](#basic-image-manipulation)
   * [Image Enhancement](#image-enhancement)
   * [Image Segmentation](#image-segmentation)
   * [Morphological operations](#morphological)
