@@ -22,9 +22,48 @@ To start using the codes, you will need some images; though you can take any ima
 
 ## Image Processing Tasks
 ## Basic Image Manipulation
+
+
+<!-- commented lines
 <ol>
   <li> <a href="https://github.com/santoshpanda1995/Image-Processing-using-Matlab/blob/main/Basic-Manipulation/read-and-show.m">Program to read and show an image in MATLAB</a> </li>
-  <li>Tea</li>
-  <li>Milk</li>
+  <li><a href="https://github.com/santoshpanda1995/Image-Processing-using-Matlab/blob/main/Basic-Manipulation/image-resize.m">Program to resize an image in different dimensions</a></li>
+  <li><a href="https://github.com/santoshpanda1995/Image-Processing-using-Matlab/blob/main/Basic-Manipulation/rgb2gray.m">Program to convert an image from RGB to grayscale image</a></li>
+  <li><a href="https://github.com/santoshpanda1995/Image-Processing-using-Matlab/blob/main/Basic-Manipulation/negative.m">Program to convert an image to its negative image</a></li>
 </ol>
+-->
+
+
+<table>
+  <tr>
+    <th>Sl. No.</th>
+    <th>Programs</th>
+    <th>Function used</th>
+    <th>Code Links</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Program to read and show an image in MATLAB</td>
+    <td>imread(), imshow()</td>
+    <td><a href="https://github.com/santoshpanda1995/Image-Processing-using-Matlab/blob/main/Basic-Manipulation/read-and-show.m">[Code]</a></td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Program to resize an image in different dimensions</td>
+    <td>imresize()</td>
+    <td><a href="https://github.com/santoshpanda1995/Image-Processing-using-Matlab/blob/main/Basic-Manipulation/image-resize.m">[Code]</a></td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Program to convert an image from RGB to grayscale image</td>
+    <td>rgb2gray()</td>
+    <td><a href="https://github.com/santoshpanda1995/Image-Processing-using-Matlab/blob/main/Basic-Manipulation/rgb2gray.m">[Code]</a></td>
+  </tr>
+   <tr>
+    <td>4</td>
+    <td>Program to convert an image to its negative image</td>
+    <td>imcomplement()</td>
+    <td><a href="https://github.com/santoshpanda1995/Image-Processing-using-Matlab/blob/main/Basic-Manipulation/negative.m">[Code]</a></td>
+  </tr>
+</table>
 
