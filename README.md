@@ -1,7 +1,7 @@
   <h1 align="center"> <img src="https://github.com/santoshpanda1995/Image-Processing-using-Matlab/blob/main/Images/giphy.gif" width="70px"> Image Processing using Matlab <img src="https://github.com/santoshpanda1995/Image-Processing-using-Matlab/blob/main/Images/giphy.gif" width="70px"> </h1>
 <img align="left" src="https://github.com/santoshpanda1995/Image-Processing-using-Matlab/blob/main/Images/Lenna.png" width="100px">
 
-**This repository contains a collection of MATLAB scripts & functions for basic image-processing tasks like image manipulation, image enhancement, image segmentation, and many more. Whether you're a beginner looking to learn image processing with MATLAB or an experienced user seeking reference code, you'll find various examples and tutorials here.**
+**This repository contains a collection of MATLAB scripts & functions for basic image-processing tasks like image manipulation, image enhancement, image segmentation, and many more. Whether you're a beginner looking to learn image processing with MATLAB or an experienced user seeking reference code, you'll find various examples and tutorials here. If you are totally new to MATLAB I would suggest first look at my [MATLAB basics](https://github.com/santoshpanda1995/MATLAB-for-all) repo, where I have covered all the basics of MATLAB, here you will find programs only related to image processing.**
 <br>
 ## Table of Contents
 
