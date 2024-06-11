@@ -91,6 +91,42 @@ To start using the codes, you will need some images; though you can take any ima
     <td><a href="https://github.com/santoshpanda1995/Image-Processing-using-Matlab/blob/main/Basic-Manipulation/rotateimage.m">[Code]</a></td>
   </tr>
 
+  <tr>
+    <td>8</td>
+    <td>Program to crop an image</td>
+    <td>imcrop()</td>
+    <td><a href="https://github.com/santoshpanda1995/Image-Processing-using-Matlab/blob/main/Basic-Manipulation/image_crop.m">[Code]</a></td>
+  </tr>
+
+  <tr>
+    <td>9</td>
+    <td>Program to flip an image</td>
+    <td>flip()</td>
+    <td><a href="https://github.com/santoshpanda1995/Image-Processing-using-Matlab/blob/main/Basic-Manipulation/flip.m">[Code]</a></td>
+  </tr>
+
+  <tr>
+    <td>10</td>
+    <td>Program for affine transform of an image</td>
+    <td>affine2d()</td>
+    <td><a href="https://github.com/santoshpanda1995/Image-Processing-using-Matlab/blob/main/Basic-Manipulation/affine_transform.m">[Code]</a></td>
+  </tr>
+
+  <tr>
+    <td>11</td>
+    <td>Program for shearing transform of an image</td>
+    <td>affine2d(),imwarp()</td>
+    <td><a href="https://github.com/santoshpanda1995/Image-Processing-using-Matlab/blob/main/Basic-Manipulation/shearing_transform.m">[Code]</a></td>
+  </tr>
+
+  <tr>
+    <td>12</td>
+    <td>Program to binarize an image</td>
+    <td>imbinarize()</td>
+    <td><a href="https://github.com/santoshpanda1995/Image-Processing-using-Matlab/blob/main/Basic-Manipulation/binarize.m">[Code]</a></td>
+  </tr>
+
+
 
 
   
