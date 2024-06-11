@@ -48,33 +48,47 @@ To start using the codes, you will need some images; though you can take any ima
     <td>imread(), imshow()</td>
     <td><a href="https://github.com/santoshpanda1995/Image-Processing-using-Matlab/blob/main/Basic-Manipulation/read-and-show.m">[Code]</a></td>
   </tr>
-  
+
   <tr>
     <td>2</td>
+    <td>Program to write/save an image in MATLAB</td>
+    <td>imwrite()</td>
+    <td><a href="https://github.com/santoshpanda1995/Image-Processing-using-Matlab/blob/main/Basic-Manipulation/imagewrite.m">[Code]</a></td>
+  </tr>
+  
+  <tr>
+    <td>3</td>
     <td>Program to resize an image in different dimensions</td>
     <td>imresize()</td>
     <td><a href="https://github.com/santoshpanda1995/Image-Processing-using-Matlab/blob/main/Basic-Manipulation/image-resize.m">[Code]</a></td>
   </tr>
   
   <tr>
-    <td>3</td>
+    <td>4</td>
     <td>Program to convert an image from RGB to grayscale image</td>
     <td>rgb2gray()</td>
     <td><a href="https://github.com/santoshpanda1995/Image-Processing-using-Matlab/blob/main/Basic-Manipulation/rgb2gray.m">[Code]</a></td>
   </tr>
   
    <tr>
-    <td>4</td>
+    <td>5</td>
     <td>Program to convert an image to its negative image</td>
     <td>imcomplement()</td>
     <td><a href="https://github.com/santoshpanda1995/Image-Processing-using-Matlab/blob/main/Basic-Manipulation/negative.m">[Code]</a></td>
   </tr>
 
   <tr>
-    <td>5</td>
+    <td>6</td>
     <td>Program for bit plane slicing</td>
     <td>mod(),floor()</td>
     <td><a href="https://github.com/santoshpanda1995/Image-Processing-using-Matlab/blob/main/Basic-Manipulation/bitplaneslicing.m">[Code]</a></td>
+  </tr>
+
+  <tr>
+    <td>7</td>
+    <td>Program to rotate an image</td>
+    <td>imrotate()</td>
+    <td><a href="https://github.com/santoshpanda1995/Image-Processing-using-Matlab/blob/main/Basic-Manipulation/rotateimage.m">[Code]</a></td>
   </tr>
 
 
